@@ -39,6 +39,6 @@ Contributions, feature suggestions, and bug reports are welcome! Please open an 
 
 ## License
 
-The Genesis extension is licensed under the [MIT license](https://github.com/giovannicocco/genesis/LICENSE).
+The Genesis extension is licensed under the [MIT license](https://github.com/giovannicocco/genesis/blob/main/LICENSE).
 
 Note: This software is licensed under the MIT License. If you use, modify, or distribute this software, please retain the original copyright notice and this permission notice.
