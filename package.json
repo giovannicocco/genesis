@@ -1,10 +1,10 @@
 {
   "name": "genesis",
   "displayName": "Genesis",
-  "description": "Genesis is a robust Visual Studio Code extension powered by OpenAI. It provides advanced AI capabilities right in your code editor, including code explanations, refactorings, and programming language translations. Genesis is multilingual and adapts its responses to the language selected in your settings. Remember, powerful AI assistance is just a right-click away with Genesis!",
+  "description": "Genesis: Advanced AI-powered programming assistant in your VS Code. Features include code explanations, refactorings, and language translations.",
   "icon": "genesis_icon.png",
   "keywords": ["AI", "code generation", "code refactoring", "OpenAI", "ChatGPT", "natural language processing", "NLP"],
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "GiovanniCocco",
   "engines": {
     "vscode": "^1.79.0"
